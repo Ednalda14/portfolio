@@ -1,0 +1,35 @@
+
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+}
+
+.img{
+    border-radius: 100%;
+    max-width: 150px;
+    border: 1px solid black;
+}
+
+body{
+    background-color: rgb(74, 72, 72);
+}    
+     
+header{
+    
+    width: 100%;
+    
+}
+
+.menu{
+    background-color: rgb(159, 74, 74);
+    
+}
+
+.row-top {
+    height: 100px;
+}
+
+.row {
+    height: 130px;
+}
